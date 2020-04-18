@@ -6,7 +6,7 @@
 //  Copyright © 2019 IITU. All rights reserved.
 //
 
-// During registration use special symbols like in Utilities.swift file for password
+// During the registration use special symbols like in Utilities.swift file for password
 
 import UIKit
 import FirebaseAuth
